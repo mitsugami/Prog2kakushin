@@ -17,4 +17,4 @@ Markdown記法
 READMEのサンプル
 - [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)（顔動作認識）
 - [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)（人物姿勢推定）
-- [Stable Diffusion](https://github.com/CompVis/stable-diffusion)（画像生成）
+- [Stable Diffusion Version 2](https://github.com/Stability-AI/stablediffusion)（画像生成）
