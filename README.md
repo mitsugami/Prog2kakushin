@@ -10,5 +10,11 @@
 
 ## 参考資料
 
+Markdown記法
 - [日本語Markdownユーザー会によるMarkdown記法](https://www.markdown.jp/syntax/)
 - [Qiita Markdown記法 サンプル集](https://qiita.com/tbpgr/items/989c6badefff69377da7)
+
+READMEのサンプル
+- [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)（顔動作認識）
+- [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)（人物姿勢推定）
+- [Stable Diffusion](https://github.com/CompVis/stable-diffusion)（画像生成）
